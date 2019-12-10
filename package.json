@@ -1,0 +1,27 @@
+{
+  "name": "melbtechdaily",
+  "version": "1.0.0",
+  "description": "A semi-automatic blog system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengchengc/MelbTechDaily.git"
+  },
+  "keywords": [
+    "React",
+    "TypeScript",
+    "PostgreSQL"
+  ],
+  "author": "Zhengcheng 'rixl' Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhengchengc/MelbTechDaily/issues"
+  },
+  "homepage": "https://github.com/zhengchengc/MelbTechDaily#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
